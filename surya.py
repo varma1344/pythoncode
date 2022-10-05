@@ -3,5 +3,5 @@ def average(a,b,c)  :
 a=int(input())
 b=int(input())
 c=int(input())
-print('Average of three numbers = ',average(a,b,c))
+print('Average three numbers = ',average(a,b,c))
 
